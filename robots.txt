@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: /sitemap.xml
+Sitemap: /blog/sitemap.xml
